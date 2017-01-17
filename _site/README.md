@@ -1,8 +1,8 @@
-# Jekyll-Materialize
-Jekyll powered blog with Google materialize css by materializecss.com
+# Amy and Amir's Wedding Site
+Hosted as a github.io page using jekyll-materialize
 
 ### Demo
-https://codeharuka.github.io/jekyll-materialize/
+http://www.amyandamir.com
 
 ### Usage
 [Jekyll](http://http://jekyllrb.com/)
@@ -12,5 +12,3 @@ https://codeharuka.github.io/jekyll-materialize/
 ### Features
 * [Materializecss](http://http://materializecss.com/)
 * Icons with [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
-* Related posts
-* Disqus comment integrated
