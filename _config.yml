@@ -26,9 +26,9 @@ sass:
     sass_dir: _sass
     style: compressed
 permalink: "/article/:title"
-markdown: redcarpet
+markdown: kramdown
 highlighter: true
 gems:
     - jekyll-feed
     - jekyll-paginate
-    - redcarpet
+    - kramdown

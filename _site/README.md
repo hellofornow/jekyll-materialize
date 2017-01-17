@@ -2,13 +2,9 @@
 Hosted as a github.io page using jekyll-materialize
 
 ### Demo
-http://www.amyandamir.com
+http://www.amyandamir.ca
 
-### Usage
+### Resources
 [Jekyll](http://http://jekyllrb.com/)
-
 [Materializecss](http://materializecss.com/)
-
-### Features
-* [Materializecss](http://http://materializecss.com/)
-* Icons with [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
+[FontAwesome](https://fortawesome.github.io/Font-Awesome/)
